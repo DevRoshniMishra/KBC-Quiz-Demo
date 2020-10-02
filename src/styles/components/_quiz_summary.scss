@@ -1,0 +1,33 @@
+.container{
+    color:white;
+    text-align:center;
+    text-decoration:underline;
+    text-transform: capitalize;
+    margin:95px;
+    
+}
+.stat{
+    font-size:15px;
+    font-weight:bold;
+    text-transform:uppercase;
+        
+}
+.right{
+    font-size:15px;
+    color:white;
+}
+link{
+    color:red;
+}
+table,th,td {
+    border:1px solid white;
+}
+li a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    display:flex;
+    justify-content: center;
+    margin-top:-50px;
+
+}

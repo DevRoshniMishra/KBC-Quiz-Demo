@@ -1,0 +1,196 @@
+
+body{
+    font-family:$quicksand;
+}
+.questions{
+    // background-color:white;
+    border-right:5px solid white;
+    width:80%;
+    margin:$lg auto 0 auto;
+    padding:$sm $md;
+    h2{
+        text-align:center;
+        font-weight:bolder;
+        margin-top:10px;
+        font-size:50px;
+        margin-left:20px;
+        margin-top:10px;
+        color:white;
+    }
+
+   
+    .lifeline{
+        position:relative;
+        top:-3px;
+        
+    }
+    .lifeline-icon{
+        color:white;
+        cursor:pointer;
+        scale:10px;
+        transform:translate(10px , 10px);
+        transform:rotate(90deg);
+        width:80px;
+        border-radius:5px;
+        opacity: 0.8;
+     
+
+    }
+    .lifeline-icon:hover{
+        color:red;
+        
+        
+        
+    }
+    .lifeline-button{
+        border-radius:70%;
+        width:150px;
+       border:2px solid white;
+        margin-left:10px;
+        background-color: none !important;
+        padding:12px;
+        margin-top:12px;
+       
+
+    }
+    .lifeline-button:hover{
+        width:60px;
+        height:40px;
+        border:3px solid purple;
+        color:black
+       
+        
+      
+        
+    }
+    
+
+    h5{
+        font-size:1.2rem;
+        margin-bottom:15px;
+        line-height:1.5;
+        text-align:center;
+        border:1px solid white;
+        clip-path: polygon(3% 0, 97% 0, 100% 50%, 98% 100%, 3% 100%, 0% 50%);
+        font-family:$quicksand;
+        color:white;
+        cursor:pointer;
+        margin:0rem auto;
+        padding:8px;
+        transition:0.3s linear all;
+        text-align:center;
+        width:95%;
+        margin-top:-15px;
+    }
+    h5:hover{
+        background-color:purple;
+    }
+    .options-container{
+        display:inline-block;
+        width:50%;
+       
+    }
+    .option{
+        border:1px solid white;
+        clip-path: polygon(4% 1%, 95% 0, 100% 50%, 95% 100%, 4% 99%, 0% 50%);
+
+        color:white;
+        cursor:pointer;
+        margin:$md auto;
+        padding:8px;
+        transition:0.3s linear all;
+        text-align:center;
+        width:90%;
+    }
+    .option:hover{
+        background-color:darken(rgb(81, 214, 81),20%);
+       
+    }
+   
+}
+
+.button-container button{
+    width:150px;
+    border:none;
+    color:white;
+    cursor:pointer;
+    margin-left:450px;
+    padding:10px;
+    border-radius:5px;
+   
+}
+
+
+.button-container button:first-child{
+    background-color:red;
+    box-shadow:1px 1px 1px 0px white;
+    transition:0.2s linear all;
+}
+.button-container button:first-child:hover{
+    background-color:white;
+    color:black;
+}
+
+.clock-outline{
+    margin-left:427px;
+    font-size:30px;
+    width:205px;
+    height:95px;
+    clip-path: circle(58.1% at 50% 100%);
+    border:1px solid white;
+    padding:10px;
+    background-color:white;
+   
+   
+}
+.question-number{
+    width:50px;
+    padding:5px;
+   border:1px solid white;
+    color:white;
+    margin-left:870px;
+    border-radius:5px;
+    padding:10px;
+}
+.number-box{
+    margin-top:-32px;
+   
+}
+
+.select-button{
+    height: 10px;
+    width: 100px;
+    margin-left:950px;
+    margin-top:-50px;
+}
+.level-button{
+    margin-left: 956px;
+    margin-top: -35px;
+   
+    
+}
+.amount-button{
+    width: 283px;
+    height: 40px;
+    clip-path: polygon(100% 0%, 100% 68%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+    margin-left:775px;
+    border:1px solid red ;
+    border:none;
+    color:black
+  
+}
+.sidebar-button{
+    float:right;
+    width: 60px;
+    height: 36px;
+    border-radius: 4px;
+    background-color: skyblue;
+    margin-top: 193px;
+    margin-right: 165px;
+}
+.sectional-button{
+    width:100px;
+    float:right;
+    background-color:red ;
+    margin-left:150px;
+}

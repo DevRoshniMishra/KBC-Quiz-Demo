@@ -1,0 +1,28 @@
+body {
+  background-color: #f3eeee;
+  background-image:url('../../assets/img/background (2).jpg');
+  background-size: cover;
+  
+}
+.rules {
+  border: 1px solid darken(white, 10%);
+  border-radius: 5px;
+  margin-top: 35px;
+  margin-bottom: $normal;
+  padding: $lg;
+  color:white;
+  font-size:18px;
+  margin-left:15px;
+  margin-right:20px;
+
+  h2{
+    color:red;
+    text-align:center;
+    text-decoration:underline;
+    margin-top:-40px;
+    font-weight:light;
+  }
+
+  
+  
+}

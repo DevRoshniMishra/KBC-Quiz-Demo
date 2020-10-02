@@ -1,0 +1,137 @@
+{
+ "question1": [
+    {
+    "question":"What temperature does water boil at?",
+    "optionA":"50 degree celcius",
+    "optionB":"25 degree celcius",
+    "optionC":"75 degree celcius",
+    "optionD":"100 degree celcius",
+    "answer":"100 degree celcius"
+    
+    },
+
+    {
+        "question":"Grand Central Terminal, Park Avenue, New York is the world's",
+        "optionA":"largest railway station",
+        "optionB":"highest railway station",
+        "optionC":"longest railway station",
+        "optionD":"None of the above",
+        "answer":"largest railway station"
+    },
+    {
+        "question":"Entomology is the science that studies",
+        "optionA":"Behavior of human beings",
+        "optionB":"Insects",
+        "optionC":"The origin and history of technical and scientific terms",
+        "optionD":"The formation of rocks",
+        "answer":"Insects"
+    },
+    {
+        "question":"Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+        "optionA":"Asia",
+        "optionB":"Africa",
+        "optionC":"Europe",
+        "optionD":"Australia",
+        "answer":"Africa"
+    },
+    {
+        "question":"Garampani sanctuary is located at",
+        "optionA":"Junagarh, Gujarat",
+        "optionB":"Diphu, Assam",
+        "optionC":"Kohima, Nagaland",
+        "optionD":"Gangtok, Sikkim",
+        "answer":"Diphu, Assam"
+    }
+ ],
+  "question2":[
+      {
+          "question":" India is a federal union comprising twenty-nine states and how many union territories?",
+          "optionA":"6",
+          "optionB":"7",
+          "optionC":"8",
+          "optionD":"9",
+          "answer": "7"
+      },
+      {
+          "question":"Which of the following is the capital of Arunachal Pradesh?",
+          "optionA":" Itanagar",
+          "optionB":" Dispur",
+          "optionC":" Imphal",
+          "optionD":"Panaji",
+          "answer":"Itanagar"
+      },
+      {
+          "question":" What is the state flower of Haryana?",
+          "optionA":" Lotus",
+          "optionB":"Rhododendron",
+          "optionC":" Golden Shower",
+          "optionD":" Not declared",
+          "answer":" Lotus"
+      },
+      {
+          "question":"Which of the following states is not located in the North?",
+          "optionA":"Jharkhand",
+          "optionB":"Jammu and Kashmir",
+          "optionC":"Himachal Pradesh",
+          "optionD":"Haryana",
+          "answer":"Jharkhand"
+          
+      },
+      {
+          "question":" Which is the largest coffee producing state of India?",
+          "optionA":" Kerala",
+          "optionB":"Tamil Nadu",
+          "optionC":"Karnataka",
+          "optionD":"Arunachal Pradesh",
+          "answer":"Karnataka"
+      },
+      {
+          "question":"In which year of First World War Germany declared war on Russia and France?",
+          "optionA":"1914",
+          "optionB":"1915",
+          "optionC":"1916",
+          "optionD":"1917",
+          "answer":"1914"
+      },
+      {
+          "question":"India's first Technicolor film ____ in the early 1950s was produced by ____",
+          "optionA":"'Jhansi Ki Rani', Sohrab Modi",
+          "optionB":"'Jhansi Ki Rani', Sir Syed Ahmed",
+          "optionC":"'Mirza Ghalib', Sohrab Modi",
+          "optionD":"'Mirza Ghalib', Munshi Premchand",
+          "answer":"'Jhansi Ki Rani', Sohrab Modi"
+      },
+      {
+          "question":"India has largest deposits of ____ in the world.",
+          "optionA":"gold",
+          "optionB":"copper",
+          "optionC":"mica",
+          "optionD":"None of the above",
+          "answer":"mica"
+      },
+      {
+          "question":"How many Lok Sabha seats belong to Rajasthan?",
+          "optionA":"32",
+          "optionB":"25",
+          "optionC":"30",
+          "optionD":"17",
+          "answer":"25"
+      },
+      {
+          "question":"Squadron leader Rakesh Sharma was India's first man to go into space. He was ____ cosmonaut to be in space in the world.",
+          "optionA":"12th",
+          "optionB":"107th",
+          "optionC":"139th",
+          "optionD":"151st",
+          "answer":"139th"
+
+      }
+    
+  ]
+
+}
+    
+    
+
+
+    

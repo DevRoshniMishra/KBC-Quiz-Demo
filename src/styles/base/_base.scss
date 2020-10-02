@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family:'Quicksand', sans-serif;;
+}
+.toast-invalid{
+    background-color:red !important;
+    border-radius:5px !important;
+    color:white !important;
+}
+.toast-valid{
+    background-color:green !important;
+    border-radius:5px !important;
+    color:white !important;
+}
